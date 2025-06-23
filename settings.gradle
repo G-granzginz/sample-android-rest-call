@@ -1,0 +1,2 @@
+rootProject.name = 'ApiTestSample'
+include ':app'
